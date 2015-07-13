@@ -4,6 +4,9 @@ font-awesome-rails provides the
 [Font-Awesome](http://fortawesome.github.com/Font-Awesome/) web fonts and
 stylesheets as a Rails engine for use with the asset pipeline.
 
+## Changes
+This fork includes FontAwesomeMore/Fontstrap icons in addition to Font Awesome 4.3
+
 ## Installation
 
 Add this to your Gemfile:
